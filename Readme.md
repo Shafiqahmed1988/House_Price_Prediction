@@ -131,7 +131,17 @@ performance.
 - RMSE: **0.5040**
 - Most Important Feature: **MedInc**
 - Model trained and evaluated using the California Housing dataset
+## Project Highlights
 
+- Performed data inspection and preprocessing
+- Analyzed relationships between housing features and house prices
+- Built a baseline Linear Regression model
+- Built a Random Forest Regression model
+- Compared model performance using MAE, RMSE, and R²
+- Performed hyperparameter tuning using GridSearchCV
+- Identified the most important features using feature importance
+- Generated predictions for new house data
+- Saved and loaded the trained machine learning model using Joblib
 
 \## Feature Importance
 
