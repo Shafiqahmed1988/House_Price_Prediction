@@ -1,4 +1,8 @@
-\# House Price Prediction using Machine Learning
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange)](https://scikit-learn.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
+
+
 
 
 
