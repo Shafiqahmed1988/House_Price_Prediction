@@ -243,6 +243,12 @@ This project was developed as part of my machine learning and data
 analytics portfolio.
 
 ## Contact
+## Feature Importance
+
+The feature importance analysis shows which variables contributed most
+to the Tuned Random Forest model's predictions.
+
+![Feature Importance](feature_importance.png)
 
 For professional collaboration or discussion, please connect with me
 through GitHub.
