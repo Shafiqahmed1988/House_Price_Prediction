@@ -232,11 +232,7 @@ pip install -r requirements.txt
 jupyter notebook
 #Open house_price_prediction.ipynb.
 Run the cells sequentially to reproduce the analysis and predictions.
-## Project Notebook
-
-The complete machine learning workflow is available in the Jupyter Notebook:
-
-[Open House Price Prediction Notebook](house_price_prediction.ipynb)
+[Open House Price Prediction Notebook](https://github.com/Shafiqahmed1988/House_Price_Prediction/blob/main/house_price_prediction.ipynb)
 ## Author
 
 **Md.Shafikul**
