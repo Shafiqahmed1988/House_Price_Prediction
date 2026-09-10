@@ -142,7 +142,16 @@ performance.
 - Identified the most important features using feature importance
 - Generated predictions for new house data
 - Saved and loaded the trained machine learning model using Joblib
+## Model Comparison
 
+| Model | MAE | RMSE | R² Score |
+|---|---:|---:|---:|
+| Linear Regression | 0.5332 | 0.7456 | 0.5758 |
+| Random Forest | 0.3275 | 0.5053 | 0.8051 |
+| Tuned Random Forest | **0.3268** | **0.5040** | **0.8062** |
+
+The Tuned Random Forest model achieved the highest R² score and the
+lowest MAE and RMSE among the evaluated models.
 \## Feature Importance
 
 
