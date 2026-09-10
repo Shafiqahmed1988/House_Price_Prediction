@@ -236,7 +236,7 @@ Run the cells sequentially to reproduce the analysis and predictions.
 
 The complete machine learning workflow is available in the Jupyter Notebook:
 
-[Open House Price Prediction Notebook](./house_price_prediction.ipynb)
+[Open House Price Prediction Notebook](house_price_prediction.ipynb)
 ## Author
 
 **Md.Shafikul**
