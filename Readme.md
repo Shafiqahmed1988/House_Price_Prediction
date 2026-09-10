@@ -248,7 +248,7 @@ analytics portfolio.
 The feature importance analysis shows which variables contributed most
 to the Tuned Random Forest model's predictions.
 
-![Feature Importance](feature_importance.png)
+[Feature Importance](feature_importance.png)
 
 For professional collaboration or discussion, please connect with me
 through GitHub.
