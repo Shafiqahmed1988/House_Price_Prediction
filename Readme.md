@@ -212,6 +212,7 @@ The Tuned Random Forest model performed significantly better than
 
 Linear Regression and the initial Random Forest model.
 ## Project Structure
+## Project Structure
 
 ```text
 House_Price_Prediction/
@@ -220,35 +221,45 @@ House_Price_Prediction/
 ├── README.md
 ├── requirements.txt
 └── house_price_model.pkl
+```
 
+## How to Run
 
-With an R² Score of approximately \*\*80.62%\*\*, the tuned model was
+1. Install the required Python libraries:
 
-selected as the final model for house price prediction.
-##How to Run
-Install the required Python libraries:
+```bash
 pip install -r requirements.txt
+```
+
+2. Open Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+3. Open `house_price_prediction.ipynb`.
+
+4. Run the cells sequentially to reproduce the analysis and predictions.
+
 ## Project Notebook
 
 The complete machine learning workflow is available in the Jupyter Notebook.
 
-Notebook:
+**Notebook:**
+[Open House Price Prediction Notebook](https://github.com/Shafiqahmed1988/House_Price_Prediction/blob/main/house_price_prediction.ipynb)
 
-https://github.com/Shafiqahmed1988/House_Price_Prediction/blob/main/house_price_prediction.ipynb
+## Feature Importance
+
+The feature importance analysis shows which variables contributed most to the Tuned Random Forest model's predictions.
+
+![Feature Importance](feature_importance.png)
+
 ## Author
 
 **Md.Shafikul**
 
-This project was developed as part of my machine learning and data
-analytics portfolio.
+This project was developed as part of my machine learning and data analytics portfolio.
 
 ## Contact
-## Feature Importance
 
-The feature importance analysis shows which variables contributed most
-to the Tuned Random Forest model's predictions.
-
-[Feature Importance](feature_importance.png)
-
-For professional collaboration or discussion, please connect with me
-through GitHub.
+For professional collaboration or discussion, please connect with me through GitHub.
