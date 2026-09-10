@@ -181,10 +181,24 @@ Hyperparameter Tuning → Final Prediction → Model Saving
 The Tuned Random Forest model performed significantly better than
 
 Linear Regression and the initial Random Forest model.
+## Project Structure
 
+```text
+House_Price_Prediction/
+│
+├── house_price_prediction.ipynb
+├── README.md
+├── requirements.txt
+└── house_price_model.pkl
 
 
 With an R² Score of approximately \*\*80.62%\*\*, the tuned model was
 
 selected as the final model for house price prediction.
-
+##How to Run
+Install the required Python libraries:
+pip install -r requirements.txt
+#Open the Jupyter Notebook:
+jupyter notebook
+#Open house_price_prediction.ipynb.
+Run the cells sequentially to reproduce the analysis and predictions.
