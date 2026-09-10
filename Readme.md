@@ -123,7 +123,14 @@ performance.
 \- MAE: \*\*0.3268\*\*
 
 \- RMSE: \*\*0.5040\*\*
+## Key Results
 
+- Best Model: **Tuned Random Forest Regression**
+- R² Score: **80.62%**
+- MAE: **0.3268**
+- RMSE: **0.5040**
+- Most Important Feature: **MedInc**
+- Model trained and evaluated using the California Housing dataset
 
 
 \## Feature Importance
