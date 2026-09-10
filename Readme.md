@@ -228,11 +228,13 @@ selected as the final model for house price prediction.
 ##How to Run
 Install the required Python libraries:
 pip install -r requirements.txt
-#Open the Jupyter Notebook:
-jupyter notebook
-#Open house_price_prediction.ipynb.
-Run the cells sequentially to reproduce the analysis and predictions.
-[Open House Price Prediction Notebook](https://github.com/Shafiqahmed1988/House_Price_Prediction/blob/main/house_price_prediction.ipynb)
+## Project Notebook
+
+The complete machine learning workflow is available in the Jupyter Notebook.
+
+Notebook:
+
+https://github.com/Shafiqahmed1988/House_Price_Prediction/blob/main/house_price_prediction.ipynb
 ## Author
 
 **Md.Shafikul**
